@@ -4,4 +4,4 @@ primaryColor = "#988dd9"
 textColor = "black"
 
 [server]
-maxUploadSize = 400
+maxUploadSize = 500
